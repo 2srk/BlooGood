@@ -1,4 +1,4 @@
-# BloGood
+# BlooGood
 
 ## Overview
 
